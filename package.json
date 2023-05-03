@@ -1,0 +1,35 @@
+{
+  "name": "project-2-capsule",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^4.16.2",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.4",
+    "codehooks-crudlify": "^1.0.8",
+    "codehooks-js": "^1.0.10",
+    "imagekit": "^4.1.3",
+    "imagekitio-react": "^2.0.0",
+    "jspdf": "^2.5.1",
+    "jwt-decode": "^3.1.2",
+    "next": "13.2.4",
+    "node-html-parser": "^6.1.5",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.3",
+    "react-bootstrap-icons": "^1.10.3",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "react-quill": "^2.0.0",
+    "react-responsive": "^9.0.2",
+    "react-webcam": "^7.0.1",
+    "sanitize-html": "^2.10.0",
+    "use-local-storage": "^2.3.6",
+    "yup": "^1.0.2"
+  }
+}
